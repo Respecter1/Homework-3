@@ -19,7 +19,7 @@ int main()
 	const double PI = 3.14159;
 
 	//Exircises 4
-	float newPi = PI;
+	float newNumber = PI;
 
 	return 0;
 }
